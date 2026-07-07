@@ -118,7 +118,7 @@ jupyter notebook
 Open the notebook:
 
 ```text
-BI (1).ipynb
+BI.ipynb
 ```
 
 Run all cells sequentially.
